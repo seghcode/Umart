@@ -25,7 +25,7 @@ nav ul li{
     margin-right: 20px;
 } 
 ul a{
-    text-decoration: underline;
+    text-decoration: none;
     color: #000;
 }
 ul a:hover{
