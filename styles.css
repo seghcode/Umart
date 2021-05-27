@@ -23,8 +23,14 @@ nav ul{
 nav ul li{
     display: inline-block;
     margin-right: 20px;
-    text-decoration: underline;
 } 
+a{
+    text-decoration: underline;
+    color: #000;
+}
+a:hover{
+    color: rgb(252, 102, 102);
+}
 /* navigation ends here */
 
 /* menu icon styling */
