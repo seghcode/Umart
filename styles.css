@@ -24,11 +24,11 @@ nav ul li{
     display: inline-block;
     margin-right: 20px;
 } 
-a{
+ul a{
     text-decoration: underline;
     color: #000;
 }
-a:hover{
+ul a:hover{
     color: rgb(252, 102, 102);
 }
 /* navigation ends here */
